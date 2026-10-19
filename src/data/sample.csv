@@ -1,0 +1,20 @@
+codigo,nombre,marca,categoria,precio,precio_oferta,contenido,tonos,descripcion,imagen_url,stock,activo,destacado,nuevo
+RB-LAB-001,Labial Mate Terciopelo,Velvetta,Labios,14900,,3.5 g,#9E2B3F|#C2525E|#7A2E3A|#D98A8A,"Labial de acabado mate con pigmento intenso. Fórmula con manteca de karité que no reseca, con hasta 8 horas de duración.",,24,TRUE,TRUE,FALSE
+RB-LAB-002,Gloss Brillo Espejo,Velvetta,Labios,11500,9200,6 ml,#E7A3A8|#C97B84|#F2C2B5,"Gloss no pegajoso con aceite de jojoba. Efecto volumen y brillo intenso.",,40,TRUE,FALSE,TRUE
+RB-LAB-003,Bálsamo Labial con Color FPS 15,Raíz,Labios,8900,,4 g,#C4706E|#B5525A,"Hidrata y protege con un toque de color natural. Vegano y sin fragancia.",,60,TRUE,FALSE,FALSE
+RB-ROS-001,Base Fluida Piel Real,Atelier Nube,Rostro,28500,,30 ml,#F1D3BE|#E3B796|#C99A76|#A97A58|#7E5638,"Cobertura media modulable y acabado satinado. Apta para piel mixta a seca, con ácido hialurónico.",,18,TRUE,TRUE,FALSE
+RB-ROS-002,Rubor en Polvo Durazno,Atelier Nube,Rostro,16800,13400,5 g,#F0A58C|#E58C8C|#D97A6C,"Rubor compacto de textura sedosa, fácil de difuminar. Color construible por capas.",,30,TRUE,FALSE,FALSE
+RB-ROS-003,Iluminador Perla Líquida,Musa,Rostro,19900,,15 ml,#F3E2CF|#EBC9A8,"Gotas iluminadoras para mezclar con la base o aplicar en pómulos. Brillo luminoso sin partículas gruesas.",,0,TRUE,FALSE,TRUE
+RB-ROS-004,Polvo Translúcido Fijador,Musa,Rostro,15200,,10 g,#EFE3D6,"Sella el maquillaje y controla el brillo durante todo el día. Invisible en todos los tonos de piel.",,22,TRUE,FALSE,FALSE
+RB-OJO-001,Máscara de Pestañas Volumen Extremo,Velvetta,Ojos,13900,,9 ml,#1E1A1C,"Cepillo curvo que separa y da volumen desde la raíz. Resistente al agua.",,50,TRUE,TRUE,FALSE
+RB-OJO-002,Paleta de Sombras Atardecer,Musa,Ojos,32500,26000,9 x 1.2 g,#C98C6B|#A4573E|#E5B98F|#6B3B33|#D9A066,"Nueve tonos cálidos en acabado mate, satinado y metalizado. Alta pigmentación.",,12,TRUE,TRUE,FALSE
+RB-OJO-003,Delineador Líquido Punta Fina,Velvetta,Ojos,10900,,1 ml,#141113,"Punta flexible para trazos precisos. Secado rápido y larga duración.",,35,TRUE,FALSE,FALSE
+RB-SKN-001,Sérum Vitamina C 15%,Raíz,Skincare,26900,,30 ml,#F2B544,"Antioxidante que unifica el tono y aporta luminosidad. Uso diurno junto con protector solar.",,20,TRUE,TRUE,FALSE
+RB-SKN-002,Crema Hidratante Ácido Hialurónico,Andina Skin,Skincare,23400,,50 g,#CFE0E3,"Hidratación de 24 horas para todo tipo de piel. Textura gel-crema de rápida absorción.",,28,TRUE,FALSE,FALSE
+RB-SKN-003,Aceite Desmaquillante Rosa Mosqueta,Andina Skin,Skincare,18700,15900,150 ml,#E9A47A,"Disuelve maquillaje y protector solar sin dejar sensación grasa. Con aceite de rosa mosqueta patagónica.",,16,TRUE,FALSE,TRUE
+RB-SKN-004,Protector Solar FPS 50 Toque Seco,Raíz,Skincare,21500,,60 g,#F4EDE4,"Protección UVA/UVB de amplio espectro. Acabado invisible y sin brillo.",,44,TRUE,FALSE,FALSE
+RB-SKN-005,Mascarilla Nocturna de Arcilla Rosa,Andina Skin,Skincare,17900,,75 g,#E8B4B8,"Purifica y suaviza la piel mientras dormís. Ideal para piel mixta.",,9,TRUE,FALSE,FALSE
+RB-FRA-001,Eau de Parfum Flor de Lapacho,Musa,Fragancias,58900,,50 ml,#E7A6C8,"Salida de pomelo rosado, corazón floral de lapacho y fondo de almizcle y vainilla.",,7,TRUE,TRUE,TRUE
+RB-FRA-002,Body Mist Coco y Vainilla,Raíz,Fragancias,12900,9900,200 ml,#F3DFC1,"Bruma corporal liviana para refrescarte durante el día.",,32,TRUE,FALSE,FALSE
+RB-UNA-001,Esmalte Efecto Gel,Velvetta,Uñas,7900,,10 ml,#A3263A|#E8B7BF|#5A2140|#F2E6DD,"Brillo efecto gel y hasta 7 días de duración sin cabina UV.",,55,TRUE,FALSE,FALSE
+RB-UNA-002,Quitaesmalte sin Acetona,Raíz,Uñas,5400,,120 ml,#F4D3DC,"Remueve el esmalte sin resecar uñas ni cutículas.",,40,FALSE,FALSE,FALSE
